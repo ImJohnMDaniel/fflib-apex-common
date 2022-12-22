@@ -10,7 +10,7 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "53.0",
+    "sourceApiVersion": "55.0",
     "packageAliases": {
         "reference-fflib-apex-common": "0Ho1T000000PAscSAG"
     }
