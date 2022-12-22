@@ -2,10 +2,16 @@
     "packageDirectories": [
         {
             "path": "sfdx-source/apex-common",
-            "default": true
+            "default": true,
+            "package": "reference-fflib-apex-common",
+            "versionName": "reference-fflib-apex-common v1.0.0",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "53.0"
+    "sourceApiVersion": "53.0",
+    "packageAliases": {
+        "reference-fflib-apex-common": "0Ho1T000000PAscSAG"
+    }
 }
