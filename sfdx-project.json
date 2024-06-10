@@ -8,7 +8,7 @@
       "versionNumber": "1.0.0.NEXT",
       "dependencies": [
         {
-          "package": "reference-fflib-apex-mocks@1.1.0-3"
+          "package": "reference-fflib-apex-mocks@1.1.1-1"
         }
       ]
     }
@@ -20,6 +20,6 @@
   "packageAliases": {
     "reference-fflib-apex-common": "0Ho1T000000PAscSAG",
     "reference-fflib-apex-mocks": "0Ho1T000000PAsXSAW",
-    "reference-fflib-apex-mocks@1.1.0-3": "04t1T000000MD8rQAG"
+    "reference-fflib-apex-mocks@1.1.1-1": "04tHs000000qOAzIAM"
   }
 }
