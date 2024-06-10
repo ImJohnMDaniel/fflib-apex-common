@@ -16,7 +16,7 @@
   "name": "reference-fflib-apex-common",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "55.0",
+  "sourceApiVersion": "60.0",
   "packageAliases": {
     "reference-fflib-apex-common": "0Ho1T000000PAscSAG",
     "reference-fflib-apex-mocks": "0Ho1T000000PAsXSAW",
