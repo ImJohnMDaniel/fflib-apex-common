@@ -4,8 +4,8 @@
       "path": "sfdx-source/apex-common",
       "default": true,
       "package": "reference-fflib-apex-common",
-      "versionName": "reference-fflib-apex-common v1.1.0",
-      "versionNumber": "1.1.0.NEXT",
+      "versionName": "reference-fflib-apex-common v1.2.0",
+      "versionNumber": "1.2.0.NEXT",
       "dependencies": [
         {
           "package": "reference-fflib-apex-mocks@1.2.0-1"
